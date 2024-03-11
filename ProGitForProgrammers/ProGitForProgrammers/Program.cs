@@ -8,6 +8,7 @@ namespace ProGitForProgrammers
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Dodałem tę linijkę w Visualu");
+            Console.WriteLine("Indeks - GitHub Desktop");
             Console.WriteLine("Pierwsza zmiana trzeciego rozdziału książki. Dodanie tego pliku do indeksu (poczekalni)");
         }
     }
