@@ -9,6 +9,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("Hello World!");
             Console.WriteLine("Dodałem tę linijkę w Visualu");
             Console.WriteLine("Poczekalnia/indeks - Visual");
+            Console.WriteLine("Indeks - GitHub Desktop");
         }
     }
 }
